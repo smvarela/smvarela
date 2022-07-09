@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Languages and tools
-![https://developer.android.com/](images/android-icon.svg)![https://www.java.com/](images/java-icon.svg)![https://git-scm.com/](images/git-scm-icon.svg)![https://github.com](images/github-icon.svg)![https://www.linux.org/](images/linux-icon.svg)
+[![android icon](images/android-icon.svg)](https://developer.android.com/)[![java icon](images/java-icon.svg)](https://www.java.com/)[![git icon](images/git-scm-icon.svg)](https://git-scm.com/)[![github icon](images/github-icon.svg)](https://github.com)[![linux icon](images/linux-icon.svg)](https://www.linux.org/)
